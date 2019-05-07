@@ -9,4 +9,3 @@ describe "Hello World" do
 
 end
 
-puts "Hello World!"
